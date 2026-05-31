@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Airflow
+airflow/logs/
+
+# VSCode
+.vscode/
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Linux
+*.swp
+
+# Mac
+.DS_Store
